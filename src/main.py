@@ -3,7 +3,7 @@
 
 def main() -> str:
     """Print."""
-    return "Hello, World!"
+    return "My name is Christian!"
 
 
 if __name__ == "__main__":
